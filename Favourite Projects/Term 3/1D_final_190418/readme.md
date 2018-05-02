@@ -15,3 +15,6 @@ objects in the white background, and move the Thymio towards it
 and back.
 4. To use the program multiple times simply press this button again
 once the robot has returned to its original position.
+
+
+If there're any queries regarding my work, do drop me an email at sohjunde96@gmail.com. Thank you!
