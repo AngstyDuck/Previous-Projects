@@ -1,9 +1,9 @@
 # F01 Group 8 1D Final Project Part II
 ###### Objective: Using Kivy as a UI, create a program that coordinates the Thymio robot and a rpi camera such that the coordinates of an object on the white background seen on the camera, would be sent to the Thymio, and the Thymio would navigate to the position of the object, return to original position, and await further instructions.
 
-kivy_main_Final.py - To be run on a laptop
-sm_cam_Final.py - To be run on a Rpi connected to a PiCamera
-sm_thymio_Final.py - To be run on a Rpi connected to a Thymio
+..* kivy_main_Final.py - To be run on a laptop
+..* sm_cam_Final.py - To be run on a Rpi connected to a PiCamera
+..* sm_thymio_Final.py - To be run on a Rpi connected to a Thymio
 
 
 To use program:
